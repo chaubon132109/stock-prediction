@@ -1,0 +1,1 @@
+const fitData = {"X_max":1524.96,"X_min":649.1,"max":1,"min":0}; export default fitData;

@@ -1,0 +1,23 @@
+{
+  "name": "stock-prediction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pnam29/stock-prediction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pnam29/stock-prediction/issues"
+  },
+  "homepage": "https://github.com/pnam29/stock-prediction#readme",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.6.0"
+  }
+}
